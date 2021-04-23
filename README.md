@@ -18,6 +18,7 @@ Actually, its a simple trojan horse disguised as the famous snake game.
 - Requests
 
 ### Instructions
+- Enter your ipv4 address in the host variable
 - Run the server.py in your computer
 - Send the client.py or the game to the target computer & run it
 - Have Fun !!
